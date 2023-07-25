@@ -1,0 +1,5 @@
+﻿Name;	Speech Code;	Transcode,
+English;	en_US;	en,
+日本;	ja_JP;	ja,
+中国語（簡体字）;	zh_CN;	zh-CN,
+中国の伝統的な;	zh_TW;	zh-TW,
