@@ -1,0 +1,1 @@
+Chạy trên Unity 2018.4 - Chạy trên các phiên bản khác có thể lỗi thư viện
